@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">test_app</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_checkin">CheckinActivity</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_marker">MarkerActivity</string>
+
+    <string name="create_checkin">Create check-in</string>
+    <string name="location_services">This app requires location services in order to display the nearby markers </string>
+    <string name="turn_on_location_services">Turn on now</string>
+    <string name="google_play_disconnected">Google Play Service disconnected</string>
+    <string name="connection_google_lost">Connection to Google Play Services was lost, please try again</string>
+    <string name="something_went_wrong">Something went wrong, please try again</string>
+    <string name="pick_color">Pick a color for your marker</string>
+    <string name="save_marker">Save</string>
+    <string name="pick_date">Pick a date for your marker</string>
+    <string name="pick_title">Pick a title for your marker</string>
+    <string name="hash_tags">Hashtags</string>
+</resources>
